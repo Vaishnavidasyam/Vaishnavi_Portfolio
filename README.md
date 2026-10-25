@@ -32,7 +32,6 @@ This portfolio presents my background as a Computer Science Engineering student 
 | **CSS3** | Styling, responsive layouts, animations, and visual effects |
 | **Vanilla JavaScript** | Navigation, interactive components, modal lightboxes, and user interactions |
 
-*No frontend frameworks or package installations are required.*
 
 ---
 
@@ -90,8 +89,6 @@ Then open `http://localhost:3000` in your browser.
 - **Live Deployment (Vercel)**: [https://vaishnavi-portfolio-one-sepia.vercel.app/](https://vaishnavi-portfolio-one-sepia.vercel.app/)
 - **GitHub Pages**: [https://vaishnavidasyam.github.io/Vaishnavi_Portfolio/](https://vaishnavidasyam.github.io/Vaishnavi_Portfolio/)
 
-*(The GitHub Pages demo is available once GitHub Pages deployment is enabled under repository settings.)*
-
 ---
 
 ## Contact
@@ -104,4 +101,3 @@ Computer Science Engineering Student | Full-Stack Development | AI/ML
 
 ---
 
-*If you find this project interesting, feel free to explore the repository.*
